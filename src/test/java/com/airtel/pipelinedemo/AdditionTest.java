@@ -8,6 +8,7 @@ import org.junit.Test;
 
 public class AdditionTest {
 
+	//Addition Object
 	Addition add;
 
 	@Before
