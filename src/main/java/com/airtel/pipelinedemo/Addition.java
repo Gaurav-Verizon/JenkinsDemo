@@ -1,5 +1,6 @@
 package com.airtel.pipelinedemo;
 
+//Addition class
 public class Addition {
 
 	public int addNumber(int num1, int num2) {
